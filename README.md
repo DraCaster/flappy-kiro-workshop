@@ -1,12 +1,9 @@
-# Flappy Kiro
+# kiro-workshop - Flappy Kiro
 
-Initial folder containing support resources for the Flappy Kiro game.
+Juego tipo endless runner desarrollado con Kiro, aplicando spec-driven development
 
-## Example UI
+Example UI:
 
 ![Flappy Kiro UI](img/example-ui.png)
 
-## Resources
 
-- `assets/` - Game audio and sprites
-- `img/` - Screenshots and images
